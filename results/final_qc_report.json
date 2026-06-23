@@ -1,0 +1,192 @@
+[
+  {
+    "check": "file present: target_miRNA_primary_comparison_summary.csv",
+    "status": "PASS",
+    "detail": "/mnt/data/anson_dengue_miRNA_submission_ready_final/results/target_miRNA_primary_comparison_summary.csv"
+  },
+  {
+    "check": "file present: severity_meta_analysis_random_effects.csv",
+    "status": "PASS",
+    "detail": "/mnt/data/anson_dengue_miRNA_submission_ready_final/results/severity_meta_analysis_random_effects.csv"
+  },
+  {
+    "check": "file present: GSE150623_count_model_sensitivity_targets.csv",
+    "status": "PASS",
+    "detail": "/mnt/data/anson_dengue_miRNA_submission_ready_final/results/GSE150623_count_model_sensitivity_targets.csv"
+  },
+  {
+    "check": "file present: GSE150623_library_size_summary_by_group.csv",
+    "status": "PASS",
+    "detail": "/mnt/data/anson_dengue_miRNA_submission_ready_final/results/GSE150623_library_size_summary_by_group.csv"
+  },
+  {
+    "check": "file present: GSE150623_raw_counts_collapsed.csv",
+    "status": "PASS",
+    "detail": "/mnt/data/anson_dengue_miRNA_submission_ready_final/data_processed/GSE150623_raw_counts_collapsed.csv"
+  },
+  {
+    "check": "file present: GSE150623_metadata.csv",
+    "status": "PASS",
+    "detail": "/mnt/data/anson_dengue_miRNA_submission_ready_final/data_processed/GSE150623_metadata.csv"
+  },
+  {
+    "check": "file present: Anson_Dengue_miRNA_SubmissionReady_Draft.docx",
+    "status": "PASS",
+    "detail": "/mnt/data/anson_dengue_miRNA_submission_ready_final/manuscript/Anson_Dengue_miRNA_SubmissionReady_Draft.docx"
+  },
+  {
+    "check": "GSE150623 metadata samples all in count matrix",
+    "status": "PASS",
+    "detail": "39 samples checked"
+  },
+  {
+    "check": "GSE150623 sample count equals 39",
+    "status": "PASS",
+    "detail": "n=39"
+  },
+  {
+    "check": "GSE150623 severe/non-severe count equals 16/23",
+    "status": "PASS",
+    "detail": "severe=16, nonsevere=23"
+  },
+  {
+    "check": "GSE190749 tested miRNA count is 798",
+    "status": "PASS",
+    "detail": "n=798"
+  },
+  {
+    "check": "GSE190749 hsa-miR-574-5p q=0.941",
+    "status": "PASS",
+    "detail": "q=0.9413072241304024"
+  },
+  {
+    "check": "GSE190749 hsa-miR-1246 q=0.941",
+    "status": "PASS",
+    "detail": "q=0.9413072241304024"
+  },
+  {
+    "check": "GSE150623 tested miRNA count is 766",
+    "status": "PASS",
+    "detail": "n=766"
+  },
+  {
+    "check": "GSE150623 has FDR-significant miRNAs overall",
+    "status": "PASS",
+    "detail": "q<0.05=150"
+  },
+  {
+    "check": "GSE150623 hsa-miR-574-5p normalized q not significant",
+    "status": "PASS",
+    "detail": "q=0.3086907864871797"
+  },
+  {
+    "check": "GSE150623 hsa-miR-1246 normalized q not significant",
+    "status": "PASS",
+    "detail": "q=0.3878545959137613"
+  },
+  {
+    "check": "GSE150623 hsa-miR-122-5p normalized q not significant",
+    "status": "PASS",
+    "detail": "q=0.3105204882429096"
+  },
+  {
+    "check": "miR-1246 detected in zero severe GSE150623 samples",
+    "status": "PASS",
+    "detail": "0/16"
+  },
+  {
+    "check": "miR-1246 detected in one non-severe GSE150623 sample",
+    "status": "PASS",
+    "detail": "1/23"
+  },
+  {
+    "check": "miR-122 pooled effect approximately 0.71",
+    "status": "PASS",
+    "detail": "g=0.7096066092995855"
+  },
+  {
+    "check": "miR-122 pooled p approximately 0.017",
+    "status": "PASS",
+    "detail": "p=0.0172901204895106"
+  },
+  {
+    "check": "miR-122 I2 approximately 10.6",
+    "status": "PASS",
+    "detail": "I2=10.641776588818685"
+  },
+  {
+    "check": "GSE150623 count model miR-122 positive and significant",
+    "status": "PASS",
+    "detail": "NB2 log2FC=3.155301433450395, p=7.066980097591273e-06"
+  },
+  {
+    "check": "GSE150623 count model miR-574 not significant",
+    "status": "PASS",
+    "detail": "p=0.6421215586411252"
+  },
+  {
+    "check": "GSE150623 count model miR-1246 too sparse",
+    "status": "PASS",
+    "detail": "status=too_sparse"
+  },
+  {
+    "check": "GSE150623 severe median library smaller than DI and DWS",
+    "status": "PASS",
+    "detail": "DS=53120.0, DI=873656.0, DWS=1783846.0"
+  },
+  {
+    "check": "manuscript has no placeholder token: STUDENT WRITES",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript has no placeholder token: WHAT TO WRITE",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript has no placeholder token: GEO2R Results Summary",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript has no placeholder token: [ADD",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript has no placeholder token: [confirm",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript has no placeholder token: TODO",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript has no placeholder token: Lorem ipsum",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript states GSE307678 not primary severe validation",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript includes AI assistance disclosure",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript includes miR-1246 detection explanation",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "check": "manuscript includes count-aware sensitivity",
+    "status": "PASS",
+    "detail": ""
+  }
+]
