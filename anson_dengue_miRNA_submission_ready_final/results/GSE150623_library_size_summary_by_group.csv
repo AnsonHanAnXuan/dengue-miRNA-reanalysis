@@ -1,4 +1,0 @@
-clinical_group,severity_binary,n,median_library_total,min_library_total,max_library_total
-DI,non-severe,9,873656.0,49534,1767995
-DS,severe,16,53120.0,1093,433739
-DWS,non-severe,14,1783846.0,290123,5809457

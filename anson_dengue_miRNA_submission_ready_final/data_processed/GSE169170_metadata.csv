@@ -1,9 +1,0 @@
-sample,GSM,clinical_group,severity_binary,dataset
-DSS1,GSM5179373,DSS,severe-spectrum,GSE169170
-DF1,GSM5179374,DF,non-severe,GSE169170
-DF2,GSM5179375,DF,non-severe,GSE169170
-DF3,GSM5179376,DF,non-severe,GSE169170
-DHF1,GSM5179377,DHF,severe-spectrum,GSE169170
-DHF2,GSM5179378,DHF,severe-spectrum,GSE169170
-DHF3,GSM5179379,DHF,severe-spectrum,GSE169170
-DSS2,GSM5179380,DSS,severe-spectrum,GSE169170
