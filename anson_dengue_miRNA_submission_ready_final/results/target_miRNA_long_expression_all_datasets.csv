@@ -1,0 +1,606 @@
+dataset,miRNA,sample,log2_expression,clinical_group,severity_binary,group,library_size,file
+GSE190749,hsa-miR-574-5p,BP08,5.946028989515477,DI,Non-severe,DI,,
+GSE190749,hsa-miR-574-5p,BP111,9.076040608263252,SD,Severe,SD,,
+GSE190749,hsa-miR-574-5p,BP146,5.807612523172633,DI,Non-severe,DI,,
+GSE190749,hsa-miR-574-5p,BP252,11.117831379634865,SD,Severe,SD,,
+GSE190749,hsa-miR-574-5p,BP39,9.912350469822584,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-574-5p,BP53,9.03091537980916,SD,Severe,SD,,
+GSE190749,hsa-miR-574-5p,BP79,6.568792178041528,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-574-5p,BP82,9.83203553384178,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-574-5p,CU11,5.724650271732967,SD,Severe,SD,,
+GSE190749,hsa-miR-574-5p,CU14,7.361768359419154,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-574-5p,CUBM04,8.191848839997071,DI,Non-severe,DI,,
+GSE190749,hsa-miR-574-5p,CUBM15,5.062208077560245,DI,Non-severe,DI,,
+GSE190749,hsa-miR-574-5p,CUBM17,12.375338151274388,SD,Severe,SD,,
+GSE190749,hsa-miR-574-5p,CUBM18,7.673344413647963,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-574-5p,PT114,11.198475736764983,SD,Severe,SD,,
+GSE190749,hsa-miR-574-5p,PT128,7.5607913663831265,SD,Severe,SD,,
+GSE190749,hsa-miR-574-5p,PT38,5.999323578150824,DI,Non-severe,DI,,
+GSE190749,hsa-miR-574-5p,PT76,8.326474430193002,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-574-5p,PT88,10.55454088894418,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,BP08,4.718087583960517,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1246,BP111,4.967168607532628,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,BP146,5.012121672712217,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1246,BP252,10.83957386435514,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,BP39,6.956056652412403,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1246,BP53,5.746850183098051,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,BP79,4.93451650158608,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1246,BP82,6.881297536911116,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1246,CU11,5.062639828286463,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,CU14,5.864928972289788,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1246,CUBM04,4.992315251861196,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1246,CUBM15,5.2671612180222604,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1246,CUBM17,7.354734239970604,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,CUBM18,6.364047083607321,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1246,PT114,9.654027319096476,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,PT128,7.1430260038899736,SD,Severe,SD,,
+GSE190749,hsa-miR-1246,PT38,5.69181329717138,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1246,PT76,6.388878338811989,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1246,PT88,8.442280035252585,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,BP08,4.871350840634026,DI,Non-severe,DI,,
+GSE190749,hsa-miR-122-5p,BP111,5.340562269026414,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,BP146,4.224966365000275,DI,Non-severe,DI,,
+GSE190749,hsa-miR-122-5p,BP252,8.890446692679905,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,BP39,6.774259951432764,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-122-5p,BP53,10.182543333151754,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,BP79,5.824513297334801,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-122-5p,BP82,6.041987621651359,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-122-5p,CU11,4.51096191927738,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,CU14,3.8629472480209217,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-122-5p,CUBM04,3.683696454306516,DI,Non-severe,DI,,
+GSE190749,hsa-miR-122-5p,CUBM15,5.188638294561388,DI,Non-severe,DI,,
+GSE190749,hsa-miR-122-5p,CUBM17,7.574479999326676,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,CUBM18,7.137605984247893,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-122-5p,PT114,10.067407469638416,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,PT128,7.22486992494269,SD,Severe,SD,,
+GSE190749,hsa-miR-122-5p,PT38,8.209258393665563,DI,Non-severe,DI,,
+GSE190749,hsa-miR-122-5p,PT76,7.615225000357386,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-122-5p,PT88,9.905672807841276,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,BP08,0.0,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1303,BP111,0.8875252707415875,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,BP146,0.0,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1303,BP252,5.294620748891627,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,BP39,4.120186027531863,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1303,BP53,1.782408564927373,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,BP79,0.7990873060740036,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1303,BP82,3.3405622690264134,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1303,CU11,0.8237493603082727,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,CU14,0.6415460290875237,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1303,CUBM04,0.3334237337251918,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1303,CUBM15,0.0285691521967709,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1303,CUBM17,6.127839600075298,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,CUBM18,0.6959938131099002,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1303,PT114,5.661065479806948,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,PT128,0.0426443374084937,SD,Severe,SD,,
+GSE190749,hsa-miR-1303,PT38,0.4436066514756148,DI,Non-severe,DI,,
+GSE190749,hsa-miR-1303,PT76,0.0,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-1303,PT88,1.01435529297707,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,BP08,4.128458384146928,DI,Non-severe,DI,,
+GSE190749,hsa-miR-30d-5p,BP111,5.05006629830629,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,BP146,2.5801454844233804,DI,Non-severe,DI,,
+GSE190749,hsa-miR-30d-5p,BP252,6.048105374442063,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,BP39,5.358958825832329,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-30d-5p,BP53,6.807741306483666,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,BP79,4.664482840364682,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-30d-5p,BP82,5.460742563789644,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-30d-5p,CU11,5.207892851641333,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,CU14,0.6415460290875237,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-30d-5p,CUBM04,2.7070829917717063,DI,Non-severe,DI,,
+GSE190749,hsa-miR-30d-5p,CUBM15,4.006298023900369,DI,Non-severe,DI,,
+GSE190749,hsa-miR-30d-5p,CUBM17,8.201339803681615,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,CUBM18,0.6959938131099002,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-30d-5p,PT114,8.23859581210741,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,PT128,6.214513410080016,SD,Severe,SD,,
+GSE190749,hsa-miR-30d-5p,PT38,4.608809242675524,DI,Non-severe,DI,,
+GSE190749,hsa-miR-30d-5p,PT76,5.366322214245816,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-30d-5p,PT88,5.735251375786425,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,BP08,0.0,DI,Non-severe,DI,,
+GSE190749,hsa-miR-424-5p,BP111,3.676944359106912,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,BP146,0.0,DI,Non-severe,DI,,
+GSE190749,hsa-miR-424-5p,BP252,3.625270489374693,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,BP39,3.372952097911829,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-424-5p,BP53,2.8135246892978105,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,BP79,0.7990873060740036,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-424-5p,BP82,0.8797057662822882,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-424-5p,CU11,3.1127001327493624,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,CU14,1.8559896973084808,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-424-5p,CUBM04,0.3334237337251918,DI,Non-severe,DI,,
+GSE190749,hsa-miR-424-5p,CUBM15,0.0285691521967709,DI,Non-severe,DI,,
+GSE190749,hsa-miR-424-5p,CUBM17,2.608809242675524,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,CUBM18,2.6016965164809576,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-424-5p,PT114,1.7398481026993275,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,PT128,2.8439838440483265,SD,Severe,SD,,
+GSE190749,hsa-miR-424-5p,PT38,0.4436066514756148,DI,Non-severe,DI,,
+GSE190749,hsa-miR-424-5p,PT76,3.258518924711301,DWS,Non-severe,DWS,,
+GSE190749,hsa-miR-424-5p,PT88,3.6915341649192,SD,Severe,SD,,
+GSE150623,hsa-miR-574-5p,sample_20035,0.0,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-574-5p,Sample_20139,6.003814669946131,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-574-5p,sample_20185,5.6700007440135,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-574-5p,Sample_20260,5.52873299541827,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-574-5p,Sample_20464,5.637869808618226,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-574-5p,sample_20476,0.0,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-574-5p,Sample_20654,0.0,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-574-5p,Sample_20655,0.0,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-574-5p,Sample_20688,0.0,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-574-5p,Sample_20736,0.0,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-574-5p,sample_B10,0.0,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-574-5p,Sample_B11,0.0,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-574-5p,Sample_B12,0.0,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-574-5p,Sample_B13,3.68595767106127,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-574-5p,Sample_B14,0.0,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-574-5p,sample_B15,0.0,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-574-5p,Sample_B2,5.0988751067306595,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-574-5p,Sample_B3,0.0,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-574-5p,Sample_B4,0.0,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-574-5p,Sample_B5,3.5013673335872704,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-574-5p,sample_B6,0.0,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-574-5p,Sample_B7,4.1475473182049525,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-574-5p,Sample_B8,3.337514563734377,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-574-5p,Sample_B9,4.464158160993215,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-574-5p,Sample_C1,0.0,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-574-5p,sample_C10,0.0,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-574-5p,Sample_C11,0.0,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-574-5p,Sample_C12,5.9101190965660315,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-574-5p,Sample_C13,0.0,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-574-5p,Sample_C14,0.0,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-574-5p,Sample_C15,0.0,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-574-5p,Sample_C2,0.0,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-574-5p,Sample_C3,0.0,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-574-5p,Sample_C4,0.0,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-574-5p,Sample_C5,0.0,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-574-5p,Sample_C6,8.1521164704837,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-574-5p,Sample_C7,0.0,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-574-5p,Sample_C8,0.0,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-574-5p,Sample_C9,0.0,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-1246,sample_20035,0.0,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-1246,Sample_20139,0.0,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-1246,sample_20185,0.0,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-1246,Sample_20260,0.0,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-1246,Sample_20464,0.0,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-1246,sample_20476,0.0,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-1246,Sample_20654,0.0,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-1246,Sample_20655,0.0,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-1246,Sample_20688,0.0,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-1246,Sample_20736,0.0,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-1246,sample_B10,0.0,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-1246,Sample_B11,0.0,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-1246,Sample_B12,0.0,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-1246,Sample_B13,0.0,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-1246,Sample_B14,0.0,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-1246,sample_B15,0.0,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-1246,Sample_B2,0.0,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-1246,Sample_B3,0.0,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-1246,Sample_B4,0.0,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-1246,Sample_B5,0.0,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-1246,sample_B6,0.0,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-1246,Sample_B7,11.191509505039361,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-1246,Sample_B8,0.0,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-1246,Sample_B9,0.0,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-1246,Sample_C1,0.0,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-1246,sample_C10,0.0,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-1246,Sample_C11,0.0,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-1246,Sample_C12,0.0,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-1246,Sample_C13,0.0,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-1246,Sample_C14,0.0,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-1246,Sample_C15,0.0,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-1246,Sample_C2,0.0,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-1246,Sample_C3,0.0,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-1246,Sample_C4,0.0,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-1246,Sample_C5,0.0,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-1246,Sample_C6,0.0,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-1246,Sample_C7,0.0,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-1246,Sample_C8,0.0,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-1246,Sample_C9,0.0,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-122-5p,sample_20035,5.278219937781228,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-122-5p,Sample_20139,3.1531861431125843,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-122-5p,sample_20185,2.4000935270931327,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-122-5p,Sample_20260,8.351422451924455,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-122-5p,Sample_20464,2.880548169705695,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-122-5p,sample_20476,2.749121535550892,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-122-5p,Sample_20654,0.0,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-122-5p,Sample_20655,0.0,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-122-5p,Sample_20688,5.583333563907192,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-122-5p,Sample_20736,5.031823862812759,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-122-5p,sample_B10,0.0,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-122-5p,Sample_B11,4.18408525500609,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-122-5p,Sample_B12,2.0944149307677766,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-122-5p,Sample_B13,4.703721935545902,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-122-5p,Sample_B14,4.692557868125835,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-122-5p,sample_B15,0.0,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-122-5p,Sample_B2,5.6553786788900275,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-122-5p,Sample_B3,2.994960327080451,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-122-5p,Sample_B4,5.375334465617986,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-122-5p,Sample_B5,5.052587546028498,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-122-5p,sample_B6,5.687788279699632,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-122-5p,Sample_B7,7.118571366254883,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-122-5p,Sample_B8,5.4591922420740095,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-122-5p,Sample_B9,0.5983232390031104,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-122-5p,Sample_C1,7.575823738795983,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-122-5p,sample_C10,8.057695419780664,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-122-5p,Sample_C11,6.352152727593293,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-122-5p,Sample_C12,10.516268224252064,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-122-5p,Sample_C13,0.0,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-122-5p,Sample_C14,4.995331644339423,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-122-5p,Sample_C15,0.0,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-122-5p,Sample_C2,7.156769495523716,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-122-5p,Sample_C3,9.285662730187912,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-122-5p,Sample_C4,10.866100191457647,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-122-5p,Sample_C5,7.869443051832176,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-122-5p,Sample_C6,8.610164268519412,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-122-5p,Sample_C7,6.559134409097545,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-122-5p,Sample_C8,0.0,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-122-5p,Sample_C9,0.0,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-30d-5p,sample_20035,13.227685857064833,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-30d-5p,Sample_20139,13.46912232467545,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-30d-5p,sample_20185,13.889812336358457,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-30d-5p,Sample_20260,13.176283724824858,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-30d-5p,Sample_20464,14.07708720148144,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-30d-5p,sample_20476,14.43489928708943,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-30d-5p,Sample_20654,11.679109594362753,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-30d-5p,Sample_20655,11.117446288689235,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-30d-5p,Sample_20688,13.410214387065645,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-30d-5p,Sample_20736,12.995240229466424,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-30d-5p,sample_B10,10.674889437346108,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-30d-5p,Sample_B11,10.390609546730122,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-30d-5p,Sample_B12,11.284148533120723,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-30d-5p,Sample_B13,10.750014080007276,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-30d-5p,Sample_B14,11.406578299594315,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-30d-5p,sample_B15,9.517221825970966,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-30d-5p,Sample_B2,13.70959216317998,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-30d-5p,Sample_B3,10.621092349638497,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-30d-5p,Sample_B4,13.281330594853062,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-30d-5p,Sample_B5,11.436815715912898,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-30d-5p,sample_B6,12.402468434004577,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-30d-5p,Sample_B7,13.434394067062689,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-30d-5p,Sample_B8,12.857021173341021,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-30d-5p,Sample_B9,12.513035000937611,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-30d-5p,Sample_C1,11.187770503762472,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-30d-5p,sample_C10,10.89235715464111,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-30d-5p,Sample_C11,9.937891565202886,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-30d-5p,Sample_C12,10.55222325861009,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-30d-5p,Sample_C13,11.930568049672544,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-30d-5p,Sample_C14,10.691716623363423,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-30d-5p,Sample_C15,11.634078527942798,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-30d-5p,Sample_C2,10.569037171851965,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-30d-5p,Sample_C3,10.583849849924304,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-30d-5p,Sample_C4,10.919511342805015,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-30d-5p,Sample_C5,13.08839253851919,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-30d-5p,Sample_C6,11.980283084752651,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-30d-5p,Sample_C7,10.936806761086718,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-30d-5p,Sample_C8,11.19180233372165,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-30d-5p,Sample_C9,12.42271617138525,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-424-5p,sample_20035,9.453626947971841,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-424-5p,Sample_20139,0.0,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-424-5p,sample_20185,0.0,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-424-5p,Sample_20260,0.0,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-424-5p,Sample_20464,8.472809829759658,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-424-5p,sample_20476,0.0,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-424-5p,Sample_20654,6.674936676608223,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-424-5p,Sample_20655,0.0,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-424-5p,Sample_20688,0.0,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-424-5p,Sample_20736,6.393343081951612,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-424-5p,sample_B10,7.152988233767975,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-424-5p,Sample_B11,6.549278299684631,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-424-5p,Sample_B12,6.199045009007584,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-424-5p,Sample_B13,7.682506371008831,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-424-5p,Sample_B14,8.999935273136751,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-424-5p,sample_B15,4.27276656538143,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-424-5p,Sample_B2,7.181600373637617,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-424-5p,Sample_B3,8.50600740350641,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-424-5p,Sample_B4,8.318174948273482,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-424-5p,Sample_B5,6.171054961316211,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-424-5p,sample_B6,7.41086963886272,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-424-5p,Sample_B7,7.625670340003381,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-424-5p,Sample_B8,8.211809107975522,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-424-5p,Sample_B9,5.431101032611952,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-424-5p,Sample_C1,0.0,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-424-5p,sample_C10,5.226264387972639,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-424-5p,Sample_C11,5.328911035921402,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-424-5p,Sample_C12,4.283885202901531,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-424-5p,Sample_C13,0.0,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-424-5p,Sample_C14,6.54982100499338,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-424-5p,Sample_C15,0.0,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-424-5p,Sample_C2,0.0,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-424-5p,Sample_C3,0.0,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-424-5p,Sample_C4,0.0,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-424-5p,Sample_C5,7.549056458971401,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-424-5p,Sample_C6,5.187187744842061,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-424-5p,Sample_C7,0.0,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-424-5p,Sample_C8,5.252262693755871,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-424-5p,Sample_C9,0.0,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-320a,sample_20035,13.273904131513707,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-320a,Sample_20139,12.030440878838768,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-320a,sample_20185,12.299880684978877,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-320a,Sample_20260,14.035391130241965,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-320a,Sample_20464,12.350637352044764,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-320a,sample_20476,12.498607457472096,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-320a,Sample_20654,15.44737631122379,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-320a,Sample_20655,14.698530953484138,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-320a,Sample_20688,13.078353401888632,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-320a,Sample_20736,12.956020637525624,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-320a,sample_B10,13.00460750252196,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-320a,Sample_B11,11.767339877531239,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-320a,Sample_B12,10.938951399238725,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-320a,Sample_B13,12.361065982717381,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-320a,Sample_B14,13.947245557298277,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-320a,sample_B15,8.987314690035193,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-320a,Sample_B2,12.250756021946236,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-320a,Sample_B3,13.927584179153472,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-320a,Sample_B4,11.923442187719445,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-320a,Sample_B5,12.101633868521892,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-320a,sample_B6,11.353932740123266,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-320a,Sample_B7,12.416984768874137,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-320a,Sample_B8,12.733721906787512,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-320a,Sample_B9,11.003676823871753,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-320a,Sample_C1,12.95089392267062,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-320a,sample_C10,13.138228533099118,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-320a,Sample_C11,12.16251769711205,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-320a,Sample_C12,12.833760778440283,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-320a,Sample_C13,13.46682685887721,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-320a,Sample_C14,11.704696902534065,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-320a,Sample_C15,13.004637799480223,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-320a,Sample_C2,12.02173224975695,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-320a,Sample_C3,14.286885315694237,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-320a,Sample_C4,17.233966390895695,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-320a,Sample_C5,13.552679749124646,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-320a,Sample_C6,13.175097946318516,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-320a,Sample_C7,12.683523844277921,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-320a,Sample_C8,12.558440630392976,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-320a,Sample_C9,15.263792309183184,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-486-5p,sample_20035,18.10705547228319,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-486-5p,Sample_20139,17.999462186386758,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-486-5p,sample_20185,17.733202833743253,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-486-5p,Sample_20260,18.57495189175699,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-486-5p,Sample_20464,18.00283036675777,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-486-5p,sample_20476,18.50582993248801,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-486-5p,Sample_20654,17.93664510452457,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-486-5p,Sample_20655,18.99130592170538,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-486-5p,Sample_20688,18.2989659000025,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-486-5p,Sample_20736,18.039794526210763,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-486-5p,sample_B10,19.50301540885515,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-486-5p,Sample_B11,19.539836282998873,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-486-5p,Sample_B12,19.47211515609339,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-486-5p,Sample_B13,19.326306132562046,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-486-5p,Sample_B14,18.868202862987676,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-486-5p,sample_B15,19.735706025079466,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-486-5p,Sample_B2,18.46660212465699,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-486-5p,Sample_B3,18.878375920371294,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-486-5p,Sample_B4,18.383145654080163,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-486-5p,Sample_B5,19.515538190896226,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-486-5p,sample_B6,19.35563524987041,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-486-5p,Sample_B7,18.92581496341837,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-486-5p,Sample_B8,19.141385398911904,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-486-5p,Sample_B9,19.345330837695712,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-486-5p,Sample_C1,18.876692449105903,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-486-5p,sample_C10,18.88697701684604,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-486-5p,Sample_C11,19.368629894886553,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-486-5p,Sample_C12,19.13758678662739,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-486-5p,Sample_C13,18.996484340872975,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-486-5p,Sample_C14,19.343707987745173,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-486-5p,Sample_C15,19.191123671295173,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-486-5p,Sample_C2,19.39844601415447,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-486-5p,Sample_C3,19.078767196730034,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-486-5p,Sample_C4,17.91754202469758,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-486-5p,Sample_C5,18.57027817491613,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-486-5p,Sample_C6,19.060114994155843,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-486-5p,Sample_C7,19.042729668427647,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-486-5p,Sample_C8,19.197346934466182,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-486-5p,Sample_C9,19.18843247999864,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-146a-5p,sample_20035,11.893708226080232,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-146a-5p,Sample_20139,11.623664024518487,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-146a-5p,sample_20185,8.945481846773868,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-146a-5p,Sample_20260,8.590321872690124,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-146a-5p,Sample_20464,10.499663812253926,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-146a-5p,sample_20476,9.479972841674638,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-146a-5p,Sample_20654,9.24808470919686,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-146a-5p,Sample_20655,8.923374097222796,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-146a-5p,Sample_20688,10.592448430595754,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-146a-5p,Sample_20736,10.409559992087413,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-146a-5p,sample_B10,0.0,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-146a-5p,Sample_B11,4.938770396620737,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-146a-5p,Sample_B12,4.341908220352412,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-146a-5p,Sample_B13,6.251296004232296,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-146a-5p,Sample_B14,8.492113317638347,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-146a-5p,sample_B15,3.1932431009844815,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-146a-5p,Sample_B2,10.68063447842365,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-146a-5p,Sample_B3,10.106683655919767,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-146a-5p,Sample_B4,9.868300387879804,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-146a-5p,Sample_B5,5.295030390089512,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-146a-5p,sample_B6,6.542577545265078,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-146a-5p,Sample_B7,9.692428464115489,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-146a-5p,Sample_B8,8.161293498849837,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-146a-5p,Sample_B9,6.6686775075010445,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-146a-5p,Sample_C1,8.18090460775695,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-146a-5p,sample_C10,8.112986193306599,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-146a-5p,Sample_C11,5.153116633271958,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-146a-5p,Sample_C12,6.70715527487202,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-146a-5p,Sample_C13,9.72245381215549,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-146a-5p,Sample_C14,0.0,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-146a-5p,Sample_C15,8.364988550099683,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-146a-5p,Sample_C2,5.9477951363780095,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-146a-5p,Sample_C3,6.59788108499562,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-146a-5p,Sample_C4,0.0,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-146a-5p,Sample_C5,9.63061640998932,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-146a-5p,Sample_C6,9.470998406040286,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-146a-5p,Sample_C7,8.133860991172098,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-146a-5p,Sample_C8,8.077238191241532,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-146a-5p,Sample_C9,9.839066888202286,Dengue severe,Severe,SD,1093.0,
+GSE150623,hsa-miR-126-5p,sample_20035,13.90200055793781,Dengue infection,Non-severe,DI,1322530.0,
+GSE150623,hsa-miR-126-5p,Sample_20139,14.511297991949682,Dengue infection,Non-severe,DI,759861.0,
+GSE150623,hsa-miR-126-5p,sample_20185,14.29895173545776,Dengue infection,Non-severe,DI,701201.0,
+GSE150623,hsa-miR-126-5p,Sample_20260,14.04259293906454,Dengue infection,Non-severe,DI,952061.0,
+GSE150623,hsa-miR-126-5p,Sample_20464,14.454836971529677,Dengue infection,Non-severe,DI,942759.0,
+GSE150623,hsa-miR-126-5p,sample_20476,13.929241477739568,Dengue infection,Non-severe,DI,873656.0,
+GSE150623,hsa-miR-126-5p,Sample_20654,11.939099861279567,Dengue severe,Severe,SD,49418.0,
+GSE150623,hsa-miR-126-5p,Sample_20655,11.83567771596985,Dengue infection,Non-severe,DI,49534.0,
+GSE150623,hsa-miR-126-5p,Sample_20688,14.489200168021105,Dengue infection,Non-severe,DI,1767995.0,
+GSE150623,hsa-miR-126-5p,Sample_20736,14.937602309213101,Dengue infection,Non-severe,DI,662174.0,
+GSE150623,hsa-miR-126-5p,sample_B10,7.960990062781239,Dengue with warning signs,Non-severe,DWS,290123.0,
+GSE150623,hsa-miR-126-5p,Sample_B11,8.39327178672383,Dengue with warning signs,Non-severe,DWS,1921113.0,
+GSE150623,hsa-miR-126-5p,Sample_B12,8.760695605074682,Dengue with warning signs,Non-severe,DWS,5809457.0,
+GSE150623,hsa-miR-126-5p,Sample_B13,9.320463531582543,Dengue with warning signs,Non-severe,DWS,758204.0,
+GSE150623,hsa-miR-126-5p,Sample_B14,8.795413380859822,Dengue with warning signs,Non-severe,DWS,724103.0,
+GSE150623,hsa-miR-126-5p,sample_B15,6.465530453004603,Dengue with warning signs,Non-severe,DWS,4909995.0,
+GSE150623,hsa-miR-126-5p,Sample_B2,13.858813237894639,Dengue with warning signs,Non-severe,DWS,991884.0,
+GSE150623,hsa-miR-126-5p,Sample_B3,9.869226429755342,Dengue with warning signs,Non-severe,DWS,573715.0,
+GSE150623,hsa-miR-126-5p,Sample_B4,12.799706706693536,Dengue with warning signs,Non-severe,DWS,2542677.0,
+GSE150623,hsa-miR-126-5p,Sample_B5,8.037573453286718,Dengue with warning signs,Non-severe,DWS,1646579.0,
+GSE150623,hsa-miR-126-5p,sample_B6,9.537808484783323,Dengue with warning signs,Non-severe,DWS,4847071.0,
+GSE150623,hsa-miR-126-5p,Sample_B7,12.453467285131566,Dengue with warning signs,Non-severe,DWS,1435153.0,
+GSE150623,hsa-miR-126-5p,Sample_B8,12.05448013686007,Dengue with warning signs,Non-severe,DWS,2744652.0,
+GSE150623,hsa-miR-126-5p,Sample_B9,10.520984147900306,Dengue with warning signs,Non-severe,DWS,1945692.0,
+GSE150623,hsa-miR-126-5p,Sample_C1,11.071412983146827,Dengue severe,Severe,SD,110650.0,
+GSE150623,hsa-miR-126-5p,sample_C10,10.888401226267135,Dengue severe,Severe,SD,192130.0,
+GSE150623,hsa-miR-126-5p,Sample_C11,9.73427274278684,Dengue severe,Severe,SD,433739.0,
+GSE150623,hsa-miR-126-5p,Sample_C12,10.292218687236208,Dengue severe,Severe,SD,270570.0,
+GSE150623,hsa-miR-126-5p,Sample_C13,11.1137136687946,Dengue severe,Severe,SD,28443.0,
+GSE150623,hsa-miR-126-5p,Sample_C14,10.140480397831805,Dengue severe,Severe,SD,64732.0,
+GSE150623,hsa-miR-126-5p,Sample_C15,11.776054978303513,Dengue severe,Severe,SD,9127.0,
+GSE150623,hsa-miR-126-5p,Sample_C2,8.493025406428375,Dengue severe,Severe,SD,395221.0,
+GSE150623,hsa-miR-126-5p,Sample_C3,10.905589936712778,Dengue severe,Severe,SD,20863.0,
+GSE150623,hsa-miR-126-5p,Sample_C4,11.38587331173081,Dengue severe,Severe,SD,56822.0,
+GSE150623,hsa-miR-126-5p,Sample_C5,13.4543502991241,Dengue severe,Severe,SD,21473.0,
+GSE150623,hsa-miR-126-5p,Sample_C6,12.678637487989386,Dengue severe,Severe,SD,28222.0,
+GSE150623,hsa-miR-126-5p,Sample_C7,12.364205794943176,Dengue severe,Severe,SD,21437.0,
+GSE150623,hsa-miR-126-5p,Sample_C8,9.859315749449879,Dengue severe,Severe,SD,107775.0,
+GSE150623,hsa-miR-126-5p,Sample_C9,12.837687978398503,Dengue severe,Severe,SD,1093.0,
+GSE169170,hsa-miR-574-5p,GSM5179373,7.471270577226486,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-574-5p,GSM5179374,7.011028912373461,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-574-5p,GSM5179375,6.49915602001448,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-574-5p,GSM5179376,7.230968835960733,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-574-5p,GSM5179377,7.943639989555884,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-574-5p,GSM5179378,5.6839662530284025,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-574-5p,GSM5179379,7.569111944523847,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-574-5p,GSM5179380,7.230968835960733,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-1246,GSM5179373,0.8259961483532741,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-1246,GSM5179374,1.9476793841432234,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-1246,GSM5179375,2.065528126499961,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-1246,GSM5179376,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-1246,GSM5179377,2.0271437815334794,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-1246,GSM5179378,1.3042447178299896,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-1246,GSM5179379,2.2056456723663658,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-1246,GSM5179380,3.1594054751487306,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179373,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179374,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179375,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179376,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179377,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179378,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179379,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-122-5p,GSM5179380,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-1303,GSM5179373,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-1303,GSM5179374,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-1303,GSM5179375,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-1303,GSM5179376,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-1303,GSM5179377,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-1303,GSM5179378,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-1303,GSM5179379,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-1303,GSM5179380,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179373,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179374,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179375,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179376,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179377,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179378,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179379,2.8251595727276477,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-30d-5p,GSM5179380,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179373,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179374,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179375,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179376,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179377,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179378,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179379,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-424-5p,GSM5179380,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-320a,GSM5179373,1.244925234450568,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-320a,GSM5179374,3.030664614366801,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-320a,GSM5179375,1.9803463694226988,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-320a,GSM5179376,1.4999333509602828,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-320a,GSM5179377,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-320a,GSM5179378,3.601231006982707,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-320a,GSM5179379,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-320a,GSM5179380,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179373,4.32280952555554,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179374,6.021778642213903,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179375,6.923032262759642,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179376,5.625827557020748,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179377,3.300821822092624,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179378,7.092765189885177,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179379,5.057131468535519,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-486-5p,GSM5179380,6.346359410747791,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179373,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179374,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179375,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179376,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179377,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179378,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179379,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-146a-5p,GSM5179380,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179373,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179373_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_1.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179374,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179374_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_2.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179375,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179375_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_3.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179376,0.13750352374993502,Dengue fever,Non-severe,DF,,GSM5179376_SG13134300_257015614457_S001_miRNA_1105_Oct12_1_4.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179377,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179377_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_1.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179378,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179378_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_2.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179379,0.13750352374993502,Dengue haemorrhagic fever,Severe-spectrum,DHF,,GSM5179379_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_3.txt.gz
+GSE169170,hsa-miR-126-5p,GSM5179380,0.13750352374993502,Dengue shock syndrome,Severe-spectrum,DSS,,GSM5179380_SG13134300_257015614457_S001_miRNA_1105_Oct12_2_4.txt.gz
+GSE307678,hsa-miR-574-5p,GSM9229157_DENV_WS_01,3.0055378663988663,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-574-5p,GSM9229158_DENV_WS_03,5.799151285306536,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-574-5p,GSM9229159_DENV_WS_04,5.6764988110463515,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-574-5p,GSM9229160_DENV_WO_30,5.102663723132955,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-574-5p,GSM9229161_DENV_WO_48,8.369942727273274,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-574-5p,GSM9229162_DENV_WO_55,6.2164222893459185,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-1246,GSM9229157_DENV_WS_01,2.04886532898623,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-1246,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-1246,GSM9229159_DENV_WS_04,2.1703266222744015,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-1246,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-1246,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-1246,GSM9229162_DENV_WO_55,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-122-5p,GSM9229157_DENV_WS_01,1.2315007601744328,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-122-5p,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-122-5p,GSM9229159_DENV_WS_04,1.3948861025635237,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-122-5p,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-122-5p,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-122-5p,GSM9229162_DENV_WO_55,3.7959743395613934,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-1303,GSM9229157_DENV_WS_01,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-1303,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-1303,GSM9229159_DENV_WS_04,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-1303,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-1303,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-1303,GSM9229162_DENV_WO_55,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-30d-5p,GSM9229157_DENV_WS_01,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-30d-5p,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-30d-5p,GSM9229159_DENV_WS_04,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-30d-5p,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-30d-5p,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-30d-5p,GSM9229162_DENV_WO_55,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-424-5p,GSM9229157_DENV_WS_01,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-424-5p,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-424-5p,GSM9229159_DENV_WS_04,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-424-5p,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-424-5p,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-424-5p,GSM9229162_DENV_WO_55,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-320a,GSM9229157_DENV_WS_01,0.7272203768640314,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-320a,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-320a,GSM9229159_DENV_WS_04,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-320a,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-320a,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-320a,GSM9229162_DENV_WO_55,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-486-5p,GSM9229157_DENV_WS_01,3.696559567064153,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-486-5p,GSM9229158_DENV_WS_03,6.2164222893459185,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-486-5p,GSM9229159_DENV_WS_04,4.026519687716706,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-486-5p,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-486-5p,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-486-5p,GSM9229162_DENV_WO_55,3.0995776053042774,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-146a-5p,GSM9229157_DENV_WS_01,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-146a-5p,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-146a-5p,GSM9229159_DENV_WS_04,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-146a-5p,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-146a-5p,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-146a-5p,GSM9229162_DENV_WO_55,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
+GSE307678,hsa-miR-126-5p,GSM9229157_DENV_WS_01,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229157_DENV_WS_01.txt.gz
+GSE307678,hsa-miR-126-5p,GSM9229158_DENV_WS_03,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229158_DENV_WS_03.txt.gz
+GSE307678,hsa-miR-126-5p,GSM9229159_DENV_WS_04,0.13750352374993502,Dengue with warning signs,Warning-sign,WS,,GSM9229159_DENV_WS_04.txt.gz
+GSE307678,hsa-miR-126-5p,GSM9229160_DENV_WO_30,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229160_DENV_WO_30.txt.gz
+GSE307678,hsa-miR-126-5p,GSM9229161_DENV_WO_48,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229161_DENV_WO_48.txt.gz
+GSE307678,hsa-miR-126-5p,GSM9229162_DENV_WO_55,0.13750352374993502,Dengue without warning signs,No-warning-sign,WO,,GSM9229162_DENV_WO_55.txt.gz
